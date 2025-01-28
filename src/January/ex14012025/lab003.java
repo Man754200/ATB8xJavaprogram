@@ -14,5 +14,7 @@ public class lab003 {
         //Non primitive data type (user defined)
         String name ="pramod"; // string bunch of char (collection of char)
         // array ,class-user data type
+        float f=3.142f; float F=3.1547F;// 32 bits, 4bytes
+        double d= 3.1445557; //  64 bits , 8bytes
     }
 }
